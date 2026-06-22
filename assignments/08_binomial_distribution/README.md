@@ -16,4 +16,4 @@ Compute the PDF and simulate outcomes for multiple participants.
 P(K=k) = C(n,k) * p^k * (1-p)^(n-k)
 
 ## Result
-PDF peaks at k=5–6 with P(K=5) ≈ 0.181
+PDF peaks at k=5 with P(K=5) ≈ 0.241
